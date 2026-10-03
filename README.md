@@ -4,7 +4,7 @@ A lightweight personal career preparation tracker designed to organize and track
 
 Instead of managing DSA, interview preparation, projects, certifications, job applications, and daily study goals across multiple places, this application brings everything into one dashboard.
 
-## 🚀 Features
+ 🚀 Features
 
 * 📅 Daily preparation plan
 * ✅ Task completion tracking
