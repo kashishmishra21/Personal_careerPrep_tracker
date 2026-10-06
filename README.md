@@ -1,4 +1,4 @@
-# Career Prep — Personal Career Preparation Tracker
+Career Prep — Personal Career Preparation Tracker
 
 A lightweight personal career preparation tracker designed to organize and track my journey toward becoming a **job-ready Full-Stack Developer**.
 
