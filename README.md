@@ -1,7 +1,7 @@
 Career Prep — Personal Career Preparation Tracker   
 
 A lightweight personal career preparation tracker designed to organize and track my journey toward becoming a **job-ready Full-Stack Developer**.
-
+  
 Instead of managing DSA, interview preparation, projects, certifications, job applications, and daily study goals across multiple places, this application brings everything into one dashboard.
 
  🚀 Features
